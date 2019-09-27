@@ -1,0 +1,6 @@
+[
+{
+    "activity":"com.xiaodianshi.tv.yst.ui.main.MainActivity",
+    "xpath": "//*[@class='android.widget.TextView' and @resource-id='com.xiaodianshi.tv.yst:id/confirm_view']"
+}
+]
